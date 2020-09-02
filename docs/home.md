@@ -1,7 +1,7 @@
 ---
 title: Advanced Predictive Modelling
 sidebar_label: Info
-slug: /2020
+slug: /
 ---
 ### MIS 382N · Fall 2020 · UT MSBA
 

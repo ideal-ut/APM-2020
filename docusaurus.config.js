@@ -24,23 +24,17 @@ module.exports = {
         {
           label: "Home",
           position: "left",
-          to: "docs/2020/"
+          to: "docs/"
         },
         {
-          label: "2020",
+          label: "Section A",
           position: "left",
-          items: [
-            {
-              label: "Section A",
-              position: "left",
-              to: "docs/2020/sec-a/"
-            },
-            {
-              label: "Section B",
-              position: "left",
-              to: "docs/2020/sec-b/"
-            },
-          ]
+          to: "docs/sec-a/"
+        },
+        {
+          label: "Section B",
+          position: "left",
+          to: "docs/sec-b/"
         }
       ],
     },
