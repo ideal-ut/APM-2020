@@ -2,14 +2,14 @@ const math = require('remark-math')
 const katex = require('rehype-katex')
 
 module.exports = {
-  title: 'apm',
+  title: 'Advaned Predictive Modelling',
   tagline: '',
-  url: 'https://Ghosh-APM.github.io',
-  baseUrl: '/',
+  url: 'https://ideal-ut.github.io',
+  baseUrl: '/APM-2020/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'Ghosh-APM', // Usually your GitHub org/user name.
-  projectName: 'Ghosh-APM.github.io', // Usually your repo name.
+  organizationName: 'ideal-ut', // Usually your GitHub org/user name.
+  projectName: 'APM-2020', // Usually your repo name.
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css',
