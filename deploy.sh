@@ -6,3 +6,6 @@ GIT_USER=somnathrakshit \
   DEPLOYMENT_BRANCH=gh-pages \
   USE_SSH=false \
   yarn run deploy # or `npm run publish-gh-pages`
+
+git checkout master
+git push origin master 

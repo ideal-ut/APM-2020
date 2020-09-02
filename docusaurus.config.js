@@ -4,12 +4,12 @@ const katex = require('rehype-katex')
 module.exports = {
   title: 'apm',
   tagline: '',
-  url: 'https://ideal-ut.github.io',
-  baseUrl: '/APM-2020/',
+  url: 'https://Ghosh-APM.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'ideal-ut', // Usually your GitHub org/user name.
-  projectName: 'APM-2020', // Usually your repo name.
+  organizationName: 'Ghosh-APM', // Usually your GitHub org/user name.
+  projectName: 'Ghosh-APM.github.io', // Usually your repo name.
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css',
@@ -24,18 +24,24 @@ module.exports = {
         {
           label: "Home",
           position: "left",
-          to: "docs/"
+          to: "docs/2020/"
         },
         {
-          label: 'MIS 382N',
-          position: 'left',
+          label: "2020",
+          position: "left",
           items: [
             {
-              label: 'Fall 2020',
-              to: 'docs/mis382n/fall2020/info',
+              label: "Section A",
+              position: "left",
+              to: "docs/2020/sec-a/"
+            },
+            {
+              label: "Section B",
+              position: "left",
+              to: "docs/2020/sec-b/"
             },
           ]
-        },
+        }
       ],
     },
     footer: {
