@@ -1,5 +1,5 @@
 ---
-title: The Guassian Distribution
+title: The Gaussian Distribution
 ---
 Authors: Shan Ali, Josh Artmann, and Maryam Blooki
 

@@ -2,8 +2,8 @@ const math = require('remark-math')
 const katex = require('rehype-katex')
 
 module.exports = {
-  title: 'Advaned Predictive Modelling',
-  tagline: '',
+  title: 'MIS 382N: Advaned Predictive Modelling',
+  tagline: 'Fall 2020',
   url: 'https://ideal-ut.github.io',
   baseUrl: '/APM-2020/',
   onBrokenLinks: 'throw',
