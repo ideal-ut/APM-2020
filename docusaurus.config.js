@@ -26,16 +26,16 @@ module.exports = {
           position: "left",
           to: "docs/"
         },
-        {
-          label: "Section A",
-          position: "left",
-          to: "docs/sec-a/"
-        },
-        {
-          label: "Section B",
-          position: "left",
-          to: "docs/sec-b/"
-        }
+        // {
+        //   label: "Section A",
+        //   position: "left",
+        //   to: "docs/sec-a/"
+        // },
+        // {
+        //   label: "Section B",
+        //   position: "left",
+        //   to: "docs/sec-b/"
+        // }
       ],
     },
     footer: {
