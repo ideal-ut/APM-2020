@@ -38,7 +38,7 @@ $$
 
 
 
-# Residual Plot
+## Residual Plot
 ### Key ideas: A random pattern of residuals supports a linear model.
 
 That if a pattern is dedected, very often it means that there is some transformation can be added to our models, in another word, there could be a more accurate model for the data.
@@ -61,7 +61,7 @@ If you answered "none of the above," you may understand this slippery concept be
 
 **Some thought-provoking statement from the article:**
 
-The ASA panel defined the P value as "the probability under a specified statistical model that a statistical summary of the data (for example, the sample mean difference between two compared groups) would be equal to or more extreme than its observed value."
+>The ASA panel defined the P value as "the probability under a specified statistical model that a statistical summary of the data (for example, the sample mean difference between two compared groups) would be equal to or more extreme than its observed value."
 
 >"You can fish through a sea of data and find one positive finding and then convince yourself that even before you started your study that would have been the key hypothesis and it has a lot of plausibility to the investigator."
 
