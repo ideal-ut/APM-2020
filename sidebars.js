@@ -8,7 +8,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Section B',
-      items: ['sec-b/b-1-gaussian-dist'],
+      items: ['sec-b/b-1-gaussian-dist', 'sec-b/b-2-mlr'],
     },
   ],
 };

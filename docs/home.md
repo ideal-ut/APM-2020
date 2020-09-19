@@ -28,4 +28,4 @@ In this course we will study a variety of techniques for predictive analytics, b
 | Sl. No. | Topic                                                   | Sec A Entry                     | Sec B Entry                     |
 |---------|---------------------------------------------------------|---------------------------------|---------------------------------|
 | 1       | Gaussian Distribution and Maximum Likelihood Estimation | [Link](sec-a/a-1-gaussian-dist) | [Link](sec-b/b-1-gaussian-dist) |
-| 2       | Multiple Linear Regression                              | [Link](sec-a/a-2-mlr)           | |
+| 2       | Multiple Linear Regression                              | [Link](sec-a/a-2-mlr)           | [Link](sec-b/b-2-mlr)           |
