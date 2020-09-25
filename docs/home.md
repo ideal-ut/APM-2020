@@ -30,4 +30,4 @@ In this course we will study a variety of techniques for predictive analytics, b
 | 1       | Gaussian Distribution and Maximum Likelihood Estimation | [Link](sec-a/a-1-gaussian-dist)     | [Link](sec-b/b-1-gaussian-dist)     |
 | 2       | Multiple Linear Regression                              | [Link](sec-a/a-2-mlr)               | [Link](sec-b/b-2-mlr)               |
 | 3       | Parametric Models                                       | [Link](sec-a/a-3-parametric-models) | [Link](sec-b/b-3-parametric-models) |
-| 4       | Regularization                                          |                                     | [Link](sec-b/b-4-regularization)    |
+| 4       | Regularization                                          | [Link](sec-a/a-4-regularization)    | [Link](sec-b/b-4-regularization)    |

@@ -7,7 +7,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Section A',
-      items: ['sec-a/a-1-gaussian-dist', 'sec-a/a-2-mlr', 'sec-a/a-3-parametric-models'],
+      items: ['sec-a/a-1-gaussian-dist', 'sec-a/a-2-mlr', 'sec-a/a-3-parametric-models', 'sec-a/a-4-regularization'],
     },
     {
       type: 'category',
