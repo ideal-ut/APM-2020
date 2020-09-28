@@ -85,12 +85,8 @@ The quantity may also contain **unmeasurable variation**. For example, the risk 
 
 ## Resources
 
-An article on bias-variance trade-off
+[An article on bias-variance trade-off]([https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 
-[https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
+[An article on improving one&#39;s model](https://towardsdatascience.com/3-ways-to-improve-your-machine-learning-results-without-more-data-f2f0fe78976e)
 
-An article on improving one&#39;s model: [https://towardsdatascience.com/3-ways-to-improve-your-machine-learning-results-without-more-data-f2f0fe78976e](https://towardsdatascience.com/3-ways-to-improve-your-machine-learning-results-without-more-data-f2f0fe78976e)
-
-An article on regularization and bias and variance
-
-[http://www.ds100.org/sp18/assets/lectures/lec17/17-bias-variance-regularization.pdf](http://www.ds100.org/sp18/assets/lectures/lec17/17-bias-variance-regularization.pdf)
+[An article on regularization and bias and variance](http://www.ds100.org/sp18/assets/lectures/lec17/17-bias-variance-regularization.pdf)
