@@ -85,7 +85,7 @@ The quantity may also contain **unmeasurable variation**. For example, the risk 
 
 ## Resources
 
-[An article on bias-variance trade-off]([https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
+[An article on bias-variance trade-off](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 
 [An article on improving one&#39;s model](https://towardsdatascience.com/3-ways-to-improve-your-machine-learning-results-without-more-data-f2f0fe78976e)
 
