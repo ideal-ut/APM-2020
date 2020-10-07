@@ -33,3 +33,4 @@ In this course we will study a variety of techniques for predictive analytics, b
 | 4       | Regularization                                          | [Link](sec-a/a-4-regularization)    | [Link](sec-b/b-4-regularization)    |
 | 5       | Bias-Variance Tradeoff                                  | [Link](sec-a/a-5-bias-variance)     | [Link](sec-b/b-5-bias-variance)     |
 | 6       | Gradient Descent                                        | [Link](sec-a/a-6-gradient-descent)  | [Link](sec-b/b-6-gradient-descent)  |
+| 7       | Stochastic Gradient Descent                             | [Link](sec-a/a-7-sgd)               | [Link](sec-b/b-7-sgd)               |
