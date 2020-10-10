@@ -19,7 +19,7 @@ See Below:
 
 ![alt text](one.png "Overfitting")
 
-$$ COST = MSE + \lambda * Penalty(f) $$
+$$COST = MSE + \lambda * Penalty(f)$$
 
 
 Generally speaking, lower order polynomial works better on lower data sparsity and higher polynomial model are good for high sparsity of data. In order to facilitate the alternatives to the general rule, we introduce a penalty which reacts to the weights of the particular data, in a process called regularizatrion. This "Cost" as referred to above is the result of the MSE given by the dataset, the $\lambda$ or "tradeoff" multiplier and the "Penalty" function which is empirically chosen.    
