@@ -3,7 +3,9 @@ title: Neural Networks
 ---
 Authors: Matthew Leong, Qianhui Lian, India Lindsay
 
-In this lecture, we were introduced to the concept of neural networks. We walked through the similarities between an actual neuron and a neural network. We discussed the very first neural network model, the adaptive linear element. We then focused on how neural networks operate and the transformations that occur between each layer. In this lecture supplement, we touch on and expand upon each of these four areas.  
+## Summary of Lecture
+
+In this lecture, we were introduced to the concept of neural networks. We walked through the similarities between an actual neuron and a neural network. We discussed the very first neural network model, the adaptive linear element. We then focused on how neural networks operate. We finalized by touching on the linear transformations that would occur in a network of linear neurons (neurons which have an identity activation function). In this lecture supplement, we touch on and expand upon each of these four areas.  
 
 ### Analogy of a Neuron: 
 
@@ -19,7 +21,7 @@ At the start of the "axon", the nonlinear transformation is applied. The "axon" 
 
 The "axon terminal" represents the output of the neural net. 
 
-![Neuron](neuron.jpg)
+![](neuron.jpg)
 
 ### History of Adaptive Linear Elements: Qianhui
 
@@ -33,7 +35,7 @@ The model takes a set of inputs *x* then multipled them to a set of weights *w* 
 
 This linear output could then transform through an activation function (the image below shows a binary function) to generate an output of 1 or -1.
 
-![Adaline.png](Adaline.png)
+![](Adaline.png)
 
 ### Neural Networks
 
@@ -42,13 +44,15 @@ Neural networks are comprised of a D dimensional input layer, an M dimensional h
 The universal approximator indicates that a mapping can exist from our inputs to our prediction outputs. However, there are still several design questions that serve as parameters in the neural network: the number of hidden units/nodes, # of epochs/iterations of SGD, the type of activation function, and the learning rate used by SGD. 
 
 
-### Linear Transformations: Matthew
+### Linear Transformations
 
 
 
 
 
-In lecture, we touched on the concept of linear transformations. This concept is essentially how neural networks process inputs. We'd like to elaborate on this concept and some others to help those without a math background. For instance, why do we bother with vector notation and all the linear/matrix algebra? As mentioned earlier, neural networks have input nodes. How do we repesent all these inputs? Well we can write it out as $x_1, x_2, x_3, ..., x_n$. However, this is quite cumbersome to write out every single time so we can represent it as a vector instead. 
+In lecture, we touched on the concept of linear transformations. Linear transformations occur within a linear neural network when the activation function is merely the identity activation function. 
+
+ We'd like to elaborate on this concept and some others to help those without a math background. For instance, why do we bother with vector notation and all the linear/matrix algebra? As mentioned earlier, neural networks have input nodes. How do we repesent all these inputs? Well we can write it out as $x_1,x_2,x_3,...x_n$. However, this is quite cumbersome to write out every single time so we can represent it as a vector instead. 
 
 $$ \vec{x} = \begin{bmatrix}
 x_1 \\
@@ -83,18 +87,12 @@ x_2
 
 If we then multiply by a positive scaling value k, we can represent the linear transformation of scalar multiplication graphically like:
 
-![transform_demo](https://mathonline.wdfiles.com/local--files/contraction-and-dilation-transformations/Screen%20Shot%202014-06-15%20at%209.14.43%20PM.png "scalar")
+![transform_demo](transform.png)
 
-Linear transformations of course aren't just scalars. They can consist of many different things. In fact, we have been using linear transformations even before neural networks! Differentiation is one such linear transformation. Similarly, our activation functions (sigmoid, relu,etc.) in neural networks are linear transformations. You can think of linear transformations as essentially how inputs get transformed with each node until it finally reaches the output value. If you want more details on what constitutes a linear transformation, I would recommend looking at this wolfram alpha article: https://mathworld.wolfram.com/LinearTransformation.html.
+Linear transformations of course aren't just scalars. They can consist of many different things. In fact, we have been using linear transformations even before neural networks! Differentiation is one such linear transformation. If you want more details on what constitutes a linear transformation, I would recommend looking at this wolfram alpha article: https://mathworld.wolfram.com/LinearTransformation.html.
 
 ### Supplemental Resources:
 
 Statquest video: https://www.youtube.com/watch?v=CqOfi41LfDw&
 
 3blue1brown video series: https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
-
-
-
-
-
-
