@@ -7,7 +7,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Section A',
-      items: ['sec-a/a-1-gaussian-dist', 'sec-a/a-2-mlr', 'sec-a/a-3-parametric-models', 'sec-a/a-4-regularization', 'sec-a/a-5-bias-variance', 'sec-a/a-6-gradient-descent', 'sec-a/a-7-sgd', 'sec-a/a-8-nn', 'sec-a/a-10-dp']
+      items: ['sec-a/a-1-gaussian-dist', 'sec-a/a-2-mlr', 'sec-a/a-3-parametric-models', 'sec-a/a-4-regularization', 'sec-a/a-5-bias-variance', 'sec-a/a-6-gradient-descent', 'sec-a/a-7-sgd', 'sec-a/a-8-nn', 'sec-a/a-9-mlp', 'sec-a/a-10-dp']
     },
     {
       type: 'category',

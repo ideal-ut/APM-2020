@@ -35,5 +35,5 @@ In this course we will study a variety of techniques for predictive analytics, b
 | 6       | Gradient Descent                                        | [Link](sec-a/a-6-gradient-descent)  | [Link](sec-b/b-6-gradient-descent)  |
 | 7       | Stochastic Gradient Descent                             | [Link](sec-a/a-7-sgd)               | [Link](sec-b/b-7-sgd)               |
 | 8       | Neural Networks                                         | [Link](sec-a/a-8-nn)                | [Link](sec-b/b-8-nn)                |
-| 9       | Multi-Layered Perceptron                                |                                     | [Link](sec-b/b-9-mlp)               |
+| 9       | Multi-Layered Perceptron                                | [Link](sec-a/a-9-mlp)               | [Link](sec-b/b-9-mlp)               |
 | 10      | Data Preprocessing                                      | [Link](sec-a/a-10-dp)               | [Link](sec-b/b-10-dp)               |
