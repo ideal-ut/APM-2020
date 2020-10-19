@@ -37,4 +37,4 @@ In this course we will study a variety of techniques for predictive analytics, b
 | 8       | Neural Networks                                         | [Link](sec-a/a-8-nn)                | [Link](sec-b/b-8-nn)                |
 | 9       | Multi-Layered Perceptron                                | [Link](sec-a/a-9-mlp)               | [Link](sec-b/b-9-mlp)               |
 | 10      | Data Preprocessing                                      | [Link](sec-a/a-10-dp)               | [Link](sec-b/b-10-dp)               |
-| 11      | Handling Outliers                                       |                                     | [Link](sec-b/b-11-outliers)               |
+| 11      | Handling Outliers                                       | [Link](sec-a/a-11-outliers)         | [Link](sec-b/b-11-outliers)               |
