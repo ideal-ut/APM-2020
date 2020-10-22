@@ -1,7 +1,7 @@
 ---
 title: Neural Networks
 ---
-Authors: Matthew Leong, Qianhui Lian, India Lindsay
+Authors: Matthew Leong, Qianhui Lian, India Lindsay. ([PDF](../../static/b-08-nn.pdf))
 
 ## Summary of Lecture
 

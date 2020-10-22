@@ -1,7 +1,7 @@
 ---
 title: Data Preprocessing
 ---
-Authors: Patricia Schutter, Katherine Zingerman, Jenny Robinson
+Authors: Patricia Schutter, Katherine Zingerman, Jenny Robinson. ([PDF](../../static/a-10-dp.pdf))
 
 In this lecture, we reviewed the importance of preprocessing data. We all know that retrieving and working with data can come with many issues, and it's impossible to get reliable results without cleaning and analyzing our data before we get to work. 
 

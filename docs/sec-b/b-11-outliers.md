@@ -1,7 +1,7 @@
 ---
 title: Handling Outliers
 ---
-Authors: Zeba Pathan, Deepti Rao, Ryan Rue
+Authors: Zeba Pathan, Deepti Rao, Ryan Rue. ([PDF](../../static/b-11-outliers.pdf))
 
 In this lecture, we were introduced to outliers and methods for dealing with them during analysis. We started off by discussing the subjectivity of outlier identification. Next, we covered methods of handling outliers. Lastly, we learned about the relationship between making a function more robust and how it affects the loss function.
 

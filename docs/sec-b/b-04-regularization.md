@@ -1,7 +1,7 @@
 ---
 title: Regularization
 ---
-Authors: Mervyn Giritharan, Calie Gilmore, Martina Galvan
+Authors: Mervyn Giritharan, Calie Gilmore, Martina Galvan. ([PDF](../../static/b-04-regularization.pdf))
 
 This lecture covers the benefits of regularization to avoid overfitting the testing data set.
 

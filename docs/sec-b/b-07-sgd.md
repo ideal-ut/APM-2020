@@ -1,7 +1,7 @@
 ---
 title: Stochastic Gradient Decent
 ---
-Authors: Eliesha Lai, Shruti Kolhatkar, Chirag Ramesh
+Authors: Eliesha Lai, Shruti Kolhatkar, Chirag Ramesh. ([PDF](../../static/b-07-sgd.pdf))
 
 ## Introduction
 
@@ -13,16 +13,16 @@ A cost finction, also called loss function is used to measure how well a neural 
 ![Imgur](https://i.imgur.com/Mh0nzIO.jpg)
 
 
-J($θ_0$,$θ_1$) is the cost finction we try to minimize.
+J($\theta_0$,$\theta_1$) is the cost finction we try to minimize.
 
-So we use the function J($θ_0$,$θ_1$) to minimize the total difference between all predictions and reality by inputting different $θ_0$ and $θ_1$ to find the best $θ_0$ and $θ_1$.
+So we use the function J($\theta_0$,$\theta_1$) to minimize the total difference between all predictions and reality by inputting different $\theta_0$ and $\theta_1$ to find the best $\theta_0$ and $\theta_1$.
 
-$h_θ(x)$ refers to the predicted value, when we input different values ​​of x after a fixed θ is given.
-Therefore, $h_θ(x)$ is the "prediction", and the y value is the "reality".
+$h_\theta(x)$ refers to the predicted value, when we input different values ​​of x after a fixed $\theta$ is given.
+Therefore, $h_\theta(x)$ is the "prediction", and the y value is the "reality".
 
 ![Imgur](https://i.imgur.com/m0gnMi4.png)
 
-The red X is the information we are given (reality), and the black line represents the corresponding values ​​of x and y contained in our function $h_θ(x)$.In order to make a more accurate prediction, we have to try to make the blue lines (the gap) close to our data set.
+The red X is the information we are given (reality), and the black line represents the corresponding values ​​of x and y contained in our function $h_\theta(x)$.In order to make a more accurate prediction, we have to try to make the blue lines (the gap) close to our data set.
 
 # Gradient Descent
 ## What is Gradient descent?
@@ -91,7 +91,7 @@ The steps of the algorithm are
 
 Stochastic gradient descent is an iterative method for optimizing an objective function with suitable smoothness properties . It can be regarded as a stochastic approximation of gradient descent optimization, since it replaces the actual gradient (calculated from the entire data set) by an estimate thereof (calculated from a randomly selected subset of the data). Especially in high-dimensional optimization problems this reduces the computational burden, achieving faster iterations in trade for a lower convergence rate.Stochastic gradient descent is  commonly used practical algorithms for large scale stochastic optimization. It is mainly used where we are getting data continuously, e.g. video streaming.Practically, computing the cost and gradient for the entire training set, can be very slow and sometimes intractable on a single machine if the dataset is too big to fit in main memory.Thus, SGD can be used if we have storage limitations.
 
-The standard gradient descent algorithm updates the parameters θ of the objective J(θ) as,
+The standard gradient descent algorithm updates the parameters $\theta$ of the objective J($\theta$) as,
 
 ![Imgur](https://i.imgur.com/KQ86qSZ.png)
 
@@ -99,7 +99,7 @@ where the expectation in the above equation is approximated by evaluating the co
 
 ![Imgur](https://i.imgur.com/tpE2Vs2.png)
 
-In SGD the learning rate α is typically much smaller than a corresponding learning rate in batch gradient descent because there is much more variance in the update. Choosing the proper learning rate and schedule (i.e. changing the value of the learning rate as learning progresses) can be fairly difficult. One standard method that works well in practice is to use a small enough constant learning rate that gives stable convergence in the initial epoch (full pass through the training set) or two of training and then halve the value of the learning rate as convergence slows down. An even better approach is to evaluate a held out set after each epoch and anneal the learning rate when the change in objective between epochs is below a small threshold. This tends to give good convergence to a local optima.Generally, the outer loop will iterate over epochs, and for each epoch, we iterates over the dataset in batches as inner loop.
+In SGD the learning rate $\alpha$ is typically much smaller than a corresponding learning rate in batch gradient descent because there is much more variance in the update. Choosing the proper learning rate and schedule (i.e. changing the value of the learning rate as learning progresses) can be fairly difficult. One standard method that works well in practice is to use a small enough constant learning rate that gives stable convergence in the initial epoch (full pass through the training set) or two of training and then halve the value of the learning rate as convergence slows down. An even better approach is to evaluate a held out set after each epoch and anneal the learning rate when the change in objective between epochs is below a small threshold. This tends to give good convergence to a local optima.Generally, the outer loop will iterate over epochs, and for each epoch, we iterates over the dataset in batches as inner loop.
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Neural Networks
 ---
-Authors: Dylan Nikol, Joseph Niehaus, Alexandre Nicolaï
+Authors: Dylan Nikol, Joseph Niehaus, Alexandre Nicolaï. ([PDF](../../static/a-08-nn.pdf))
 
 ![APM_Supp1](https://upload.wikimedia.org/wikipedia/commons/f/ff/Rosenblattperceptron.png)
 

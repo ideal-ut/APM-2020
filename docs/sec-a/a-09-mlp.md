@@ -1,7 +1,7 @@
 ---
 title: Multi-Layered Perceptron
 ---
-Authors: Jason Petri, Jordan Pflum, Immanuel Ponminissery
+Authors: Jason Petri, Jordan Pflum, Immanuel Ponminissery. ([PDF](../../static/a-09-mlp.pdf))
 
 ## Overview of Lecture
 

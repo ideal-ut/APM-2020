@@ -1,7 +1,7 @@
 ---
 title: The Gaussian Distribution
 ---
-Authors: Shan Ali, Josh Artmann, and Maryam Blooki
+Authors: Shan Ali, Josh Artmann, and Maryam Blooki ([PDF](../../static/a-01-gaussian-dist.pdf))
 
 In this lecture we dove into guassian distributions and expanded on what we know about regressions and how they are built. The following paragraphs will cover gausian distributions, maximum likelihood esstimation, and additional topics we find relavent and fun!
 

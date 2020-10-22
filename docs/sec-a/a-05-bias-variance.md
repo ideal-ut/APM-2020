@@ -2,7 +2,7 @@
 title: Bias and Variance Dilemma & Shrinkage Methods
 ---
 
-Authors: Jing Fang, Andrew Han, Hao He
+Authors: Jing Fang, Andrew Han, Hao He. ([PDF](../../static/a-05-bias-variance.pdf))
 
 ## Course Content
 

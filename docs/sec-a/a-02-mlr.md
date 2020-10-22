@@ -1,7 +1,8 @@
 ---
 title: Multiple Linear Regression
 ---
-Authors: [Xuxian Chen](https://www.linkedin.com/in/xuxian-chen-81b648b5/), Kevin Cheng, [Sujay Chebbi](https://www.linkedin.com/in/sujaychebbi/).
+Authors: [Xuxian Chen](https://www.linkedin.com/in/xuxian-chen-81b648b5/), Kevin Cheng, [Sujay Chebbi](https://www.linkedin.com/in/sujaychebbi/). ([PDF](../../static/a-02-mlr.pdf))
+
 
 Following the assumptions of Multiple Linear Regression (MLR), we continued to cover several regression concepts, including Mean Square Error(MSE), Maximum Likeliihood Estimate(MLE), Adjusted R-square, Regression Excel Output, etc. 
 
@@ -54,7 +55,7 @@ Test your knowledge: Which of the following is true?
 P > 0.05 is the probability that the null hypothesis is true.
 
 1. 1 minus the P value is the probability that the alternative hypothesis is true.
-2. A statistically significant test result (P ≤ 0.05) means that the test hypothesis is false or should be rejected.
+2. A statistically significant test result (P $\le$ 0.05) means that the test hypothesis is false or should be rejected.
 3. A P value greater than 0.05 means that no effect was observed.
 
 If you answered "none of the above," you may understand this slippery concept better than many researchers.

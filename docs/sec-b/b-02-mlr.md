@@ -1,7 +1,7 @@
 ---
 title: Multiple Linear Regression
 ---
-Authors: Yingjie Chen, Dawson Cook, Priyanka Choudhary
+Authors: Yingjie Chen, Dawson Cook, Priyanka Choudhary. ([PDF](../../static/b-02-mlr.pdf))
 
 MLR is one of the multiple ways to model the data at hand. The expected answer for the dependent variable is expressed as y(hat) and the parameters (betas) are found out by the model that explain the fit of independent variables with the y. In a perfect model, the true Y is assumed to be generated using the MLR model along with an added zero mean gaussian noise. This concept also was reflected in one of our quiz questions that we later discussed in class. If we have less data points, we would want them to be distributed along along a wide range to get a good MLR fit.
 

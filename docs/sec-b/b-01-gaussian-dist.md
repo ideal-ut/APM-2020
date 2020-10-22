@@ -1,7 +1,7 @@
 ---
 title: The Gaussian Distribution 
 ---
-Authors: [Luke Bravo](https://www.linkedin.com/in/luke-bravo/), [Sidd Chauhan](https://www.linkedin.com/in/siddhantchauhan77/) and [Shuming Chen](https://www.linkedin.com/in/shuming-chen/)
+Authors: [Luke Bravo](https://www.linkedin.com/in/luke-bravo/), [Sidd Chauhan](https://www.linkedin.com/in/siddhantchauhan77/) and [Shuming Chen](https://www.linkedin.com/in/shuming-chen/). ([PDF](../../static/b-01-gaussian-dist.pdf))
 
 The lecture covered the basics of multiple linear regression and the application of maximum likelihood estimation. Fundamental to both of these topics is the basic gaussian distribution, which these notes cover first. Then, we cover maximum likelihood functions and estimations. Next, we look at the equation, assumptions, and limitations of multiple linear regression. Finally, we have included two videos that provide more information on maximum likelihood estimation, and tie these three topics together.
 

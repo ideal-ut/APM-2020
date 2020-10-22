@@ -1,7 +1,7 @@
 ---
 title: Multi-Layered Perceptron
 ---
-Authors: Shuheng Ma, Anqi Lou, Mauricio Morales
+Authors: Shuheng Ma, Anqi Lou, Mauricio Morales. ([PDF](../../static/b-09-mlp.pdf))
 
 ## Introduction:
 

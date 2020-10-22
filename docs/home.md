@@ -27,14 +27,14 @@ In this course we will study a variety of techniques for predictive analytics, b
 ## Lecture Notes
 | Sl. No. | Topic                                                   | Sec A Entry                         | Sec B Entry                         |
 |---------|---------------------------------------------------------|-------------------------------------|-------------------------------------|
-| 1       | Gaussian Distribution and Maximum Likelihood Estimation | [Link](sec-a/a-1-gaussian-dist)     | [Link](sec-b/b-1-gaussian-dist)     |
-| 2       | Multiple Linear Regression                              | [Link](sec-a/a-2-mlr)               | [Link](sec-b/b-2-mlr)               |
-| 3       | Parametric Models                                       | [Link](sec-a/a-3-parametric-models) | [Link](sec-b/b-3-parametric-models) |
-| 4       | Regularization                                          | [Link](sec-a/a-4-regularization)    | [Link](sec-b/b-4-regularization)    |
-| 5       | Bias-Variance Tradeoff                                  | [Link](sec-a/a-5-bias-variance)     | [Link](sec-b/b-5-bias-variance)     |
-| 6       | Gradient Descent                                        | [Link](sec-a/a-6-gradient-descent)  | [Link](sec-b/b-6-gradient-descent)  |
-| 7       | Stochastic Gradient Descent                             | [Link](sec-a/a-7-sgd)               | [Link](sec-b/b-7-sgd)               |
-| 8       | Neural Networks                                         | [Link](sec-a/a-8-nn)                | [Link](sec-b/b-8-nn)                |
-| 9       | Multi-Layered Perceptron                                | [Link](sec-a/a-9-mlp)               | [Link](sec-b/b-9-mlp)               |
-| 10      | Data Preprocessing                                      | [Link](sec-a/a-10-dp)               | [Link](sec-b/b-10-dp)               |
-| 11      | Handling Outliers                                       | [Link](sec-a/a-11-outliers)         | [Link](sec-b/b-11-outliers)               |
+| 1       | Gaussian Distribution and Maximum Likelihood Estimation | [Link](sec-a/a-01-gaussian-dist)     | [Link](sec-b/b-01-gaussian-dist)     |
+| 2       | Multiple Linear Regression                              | [Link](sec-a/a-02-mlr)               | [Link](sec-b/b-02-mlr)               |
+| 3       | Parametric Models                                       | [Link](sec-a/a-03-parametric-models) | [Link](sec-b/b-03-parametric-models) |
+| 4       | Regularization                                          | [Link](sec-a/a-04-regularization)    | [Link](sec-b/b-04-regularization)    |
+| 5       | Bias-Variance Tradeoff                                  | [Link](sec-a/a-05-bias-variance)     | [Link](sec-b/b-05-bias-variance)     |
+| 6       | Gradient Descent                                        | [Link](sec-a/a-06-gradient-descent)  | [Link](sec-b/b-06-gradient-descent)  |
+| 7       | Stochastic Gradient Descent                             | [Link](sec-a/a-07-sgd)               | [Link](sec-b/b-07-sgd)               |
+| 8       | Neural Networks                                         | [Link](sec-a/a-08-nn)                | [Link](sec-b/b-08-nn)                |
+| 9       | Multi-Layered Perceptron                                | [Link](sec-a/a-09-mlp)               | [Link](sec-b/b-09-mlp)               |
+| 10      | Data Preprocessing                                      | [Link](sec-a/a-10-dp)                | [Link](sec-b/b-10-dp)               |
+| 11      | Handling Outliers                                       | [Link](sec-a/a-11-outliers)          | [Link](sec-b/b-11-outliers)               |

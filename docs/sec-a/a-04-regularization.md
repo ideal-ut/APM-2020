@@ -1,7 +1,7 @@
 ---
 title: Regularization
 ---
-Authors: Benjamin Deutsch, Emah Eguche, Tairan Deng 
+Authors: Benjamin Deutsch, Emah Eguche, Tairan Deng. ([PDF](../../static/a-04-regularization.pdf))
 
 ## Lecture Content
 
@@ -35,7 +35,7 @@ $$\sum_{M}^{i=1} \left \|w_{i} \right \|$$
 
 Each of these has machinizations built in for handling different data set types. 
 
-Lasso penalty is absolute value of $\w, weights are linear ("V" shaped) given the componet volume of the set. Giving this the ability to drop componets to zero. While Ridge penalty is sum squared of weights, which increases exponentially as the component weights increases  'U' shape curve. Unbiasing the small weights aganist the larger weighted classes.
+Lasso penalty is absolute value of $w$, weights are linear ("V" shaped) given the componet volume of the set. Giving this the ability to drop componets to zero. While Ridge penalty is sum squared of weights, which increases exponentially as the component weights increases  'U' shape curve. Unbiasing the small weights aganist the larger weighted classes.
 
 Without regularization, the weights would be very high value and create a high cost.
 $$E(w) = \sum_{N}^{n=1} \left \{ w^{T} \phi(x_{n}) - t^{n} \right \}^{2} + \frac{\lambda}{2}\left \| w \right \|^2$$

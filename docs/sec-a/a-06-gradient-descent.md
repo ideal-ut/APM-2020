@@ -1,7 +1,7 @@
 ---
 title: Gradient Descent
 ---
-Authors: Lai Jiang, Bryant Leal, Yiming Jin.
+Authors: Lai Jiang, Bryant Leal, Yiming Jin. ([PDF](../../static/a-06-gradient-descent.pdf))
 
 After learning about linear regression and its proof, we have dived into an alternative method that will reach the same answer that linear regression can solve. The method is called gradient descent which will be further developed into a much less computationally intensive method called Stochastic Gradient Descent. It is vital that we begin this supplement first with a general idea of gradient descent before diving into SGD.
 
@@ -68,7 +68,7 @@ Professor also updated us on the covid-19 issue since the number of death surpas
 
 Gradient Descent is very computationally demanding especially on big datasets when calculating the derivative of the loss function with respect to each parameter for each point *and* also calculating how big a step to take based on those weights. Therefore, Stochastic Gradient Descent (SGD) comes into play by picking a random data point from the data set and performing the GD on it - making SGD more scalable. This process continues until the optimal weights are found.
 
-SGD is an itrative method for optimizing an objective function with suitable smoothness properties. Stochastic gradient descent replaces true gradient by "instantaneous" gradient, that reduces error only on the new instance. We explored linear models in class, with τ as (inner loop) iteration number, and n denoting the datapoint being considered:
+SGD is an itrative method for optimizing an objective function with suitable smoothness properties. Stochastic gradient descent replaces true gradient by "instantaneous" gradient, that reduces error only on the new instance. We explored linear models in class, with $\tau$ as (inner loop) iteration number, and n denoting the datapoint being considered:
 
 $W^{(\tau+1)} = W^{\tau} - \eta\nabla E_{n} = W^{\tau} + \eta(t_{n} - W^{(\tau) T}\eta (X_{n}))\eta(X_{n})$
 

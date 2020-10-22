@@ -1,7 +1,7 @@
 ---
 title: Beyond Linear Regression and Gradient Descent
 ---
-Authors: Shruti Kapur, Bhavna Kaparaju, Ram Kapistalam
+Authors: Shruti Kapur, Bhavna Kaparaju, Ram Kapistalam. ([PDF](../../static/b-06-gradient-descent.pdf))
 
 To start the class, we touched on "Almost" Linear models (such as Piecewise Linear) and nonlinear models. We then discussed the nature of Universal Approximators and some specific examples of this concept such as Neural Nets. Finally, we looked at three methods to find the values of a function's parameters (coefficients) that minimize a cost function as far as possible. 
 

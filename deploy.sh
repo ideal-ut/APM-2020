@@ -1,3 +1,14 @@
+conda deactivate 
+conda activate code 
+
+cd docs/sec-a
+for i in *.md; do pandoc "$i" -o ../../static/"${i%.md}".pdf; echo "$i"; done;
+
+cd ../sec-b
+for i in *.md; do pandoc "$i" -o ../../static/"${i%.md}".pdf; echo "$i"; done;
+
+cd ../../
+
 git add .
 git commit -m "WIP"
 

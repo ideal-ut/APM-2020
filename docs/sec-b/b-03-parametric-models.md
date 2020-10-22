@@ -1,7 +1,7 @@
 ---
 title: Function approximation (Regression)
 ---
-Authors: Rehan Daya, Manan Desai, Samir Epili
+Authors: Rehan Daya, Manan Desai, Samir Epili. ([PDF](../../static/b-03-parametric-models.pdf))
 
 ### Parametric Models
 

@@ -1,7 +1,7 @@
 ---
 title: Handling Outliers
 ---
-**Authors:** Vikram Seth, Steve Sohn, Xinmeng Song
+**Authors:** Vikram Seth, Steve Sohn, Xinmeng Song. ([PDF](../../static/a-11-outliers.pdf))
 
 
 ## Overview of Lecture

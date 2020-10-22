@@ -1,6 +1,8 @@
 ---
 title: Parametric Models 
 ---
+([PDF](../../static/a-03-parametric-models.pdf))
+
 In this lecture, we discussed Parametric Models. We focused on determining the functional form of a model. Functional forms of models can be any polynomial to a degree of M. If M = 10, this would be a 10th order polynomial. What we want to do is learn the parameters or weights of the model using the training data, and once we have a feel for the relationship, we can determine what functional form of the model leads to the lowest prediction error. 
 
 We are able to able to create a generalized basis function that will convert a polynomial of any M to a basis function using a dummy variabel for for each parameter. For a linear model, the basis function expansion with a dummy variable will not look much different from the linear equation. However, for a polynomial, we are able to convert a paramter of $x^{i}$ to $\phi_{i}(x)$. 

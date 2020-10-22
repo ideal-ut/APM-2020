@@ -1,7 +1,7 @@
 ---
 title: Stochastic Gradient Descent (SGD) & Neural Network Intro.
 ---
-Authors: Joseph (Alex) McGraw, Sitong Li, & Christian Lee
+Authors: Joseph (Alex) McGraw, Sitong Li, & Christian Lee. ([PDF](../../static/a-07-sgd.pdf))
 
 The majority of this class was used for covering what SGD is, how it is generally a better alternative to gradient descent, and how the error calculations are utilized for updating the weights for each variable. We also covered a very quick introduction into Neural Networks, but the next class was more in depth compared to this one.
 1.	SGD is a much more computationally efficient method for finding the global minima of the error term when compared to gradient descent.

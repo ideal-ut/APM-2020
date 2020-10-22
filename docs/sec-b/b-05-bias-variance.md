@@ -1,7 +1,7 @@
 ---
 title: Bias-Variance Dilemma
 ---
-Authors: Zachary Hall, Mac Husted, Nicole Jiang
+Authors: Zachary Hall, Mac Husted, Nicole Jiang. ([PDF](../../static/b-05-bias-variance.pdf))
 
 Expected square loss (E[L]) formula:
 

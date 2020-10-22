@@ -1,7 +1,7 @@
 ---
 title: Data Preprocessing
 ---
-Authors: Kessiena Ofunrein, Brett Nesfeder, Shakirah Oladokun
+Authors: Kessiena Ofunrein, Brett Nesfeder, Shakirah Oladokun. ([PDF](../../static/b-10-dp.pdf))
 
 In this lecture, we were introduced to data issues and began to expand on pre-processing steps in order to transform the various data collected to make them meaningful and useful. We discussed an overview of pre-processing, the benefits of data cleaning, and possible solutions for missing values.
 
