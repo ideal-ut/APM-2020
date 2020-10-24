@@ -36,5 +36,6 @@ In this course we will study a variety of techniques for predictive analytics, b
 | 7       | Stochastic Gradient Descent                             | [Link](sec-a/a-07-sgd)               | [Link](sec-b/b-07-sgd)               |
 | 8       | Neural Networks                                         | [Link](sec-a/a-08-nn)                | [Link](sec-b/b-08-nn)                |
 | 9       | Multi-Layered Perceptron                                | [Link](sec-a/a-09-mlp)               | [Link](sec-b/b-09-mlp)               |
-| 10      | Data Preprocessing                                      | [Link](sec-a/a-10-dp)                | [Link](sec-b/b-10-dp)               |
-| 11      | Handling Outliers                                       | [Link](sec-a/a-11-outliers)          | [Link](sec-b/b-11-outliers)               |
+| 10      | Data Preprocessing                                      | [Link](sec-a/a-10-dp)                | [Link](sec-b/b-10-dp)                |
+| 11      | Handling Outliers                                       | [Link](sec-a/a-11-outliers)          | [Link](sec-b/b-11-outliers)          |
+| 12      | Reducing Features                                       | [Link](sec-a/a-12-reducing-features) | [Link](sec-b/b-12-reducing-features) |
