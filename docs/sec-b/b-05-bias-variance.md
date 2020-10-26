@@ -44,7 +44,7 @@ Generally, more flexible methods result in less bias.
 
 \*\* the bias and variance concepts here apply to a predictive model, rather than to an estimator of a specific value.
 
-# Bias-Variance Tradeoff
+## Bias-Variance Tradeoff
 
 When a model is too simple and has very few parameters then it may have high bias and low variance. While, if a model is too complex and has too many parameters then it&#39;s going to have too much variance and low bias. The optimal model is one where the level of complexity leads equivalent reduction in variance and increase in bias.
 
@@ -53,7 +53,7 @@ If our model complexity exceeds this optimal spot, the model will be in effect o
 ![](APM6.png)
 
 ![](APM7.png)
-# How does one improve their model?
+## How does one improve their model?
 
 The first method to improve one&#39;s model is to get more training data. This will reduce the variance of one&#39;s estimates while keeping the bias overall the same. It also has an additional benefit of allowing one to increase their model complexity. The more training data one has the more likely that training error and the test error will converge. Since the test error is an unbiased estimate of the true mean, the model will be closer to the &quot;true&quot; error.
 
@@ -65,15 +65,15 @@ The last method is to change the model type. There are times when a linear model
 
 If these methods don&#39;t improve the overall solution, one might need to do feature engineering. This involved careful selection and possible manipulation of the data features. The reason to do this is to feed the model only the most optimal inputs. If one can consistently give the model only part of the data it needs to make more accurate predictions then it doesn&#39;t have to deal with any extra noise that comes from the rest of data. It also allows one to reduce the possibility that the model is suffering from the collinearity problem. An alternative way of selecting features may be through principal component analysis for example.
 
-# The Effect of Regularization on Bias and Variance
+## The Effect of Regularization on Bias and Variance
 
 When one regularizes a model, they are penalizing model complexity with the goal of reducing the variance and bias to an optimal level. When there is more regularization (i.e. higher lambda or alpha), there is more bias and less variance. When one regularizes a model, they must keep this in mind to ensure that they haven&#39;t regularized the model too much where more bias is being introduced. This goes back to the idea of the bias-variance trade-off. When we keep this mind when regularizing, the model should make more reliable predictions on future data sets other than just the training dataset.
 
 ![](APM9.png)
 
-# Additional Information &amp; Resources
+## Additional Information &amp; Resources
 
-## Irreducible error
+### Irreducible error
 
 Variability associated with error terms also affects the accuracy of our predictions. This is known as the _ **irreducible** _ error, because no matter how well we estimate _f_, we cannot reduce the error introduced by the error terms.
 
