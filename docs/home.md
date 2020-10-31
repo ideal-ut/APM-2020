@@ -40,3 +40,4 @@ In this course we will study a variety of techniques for predictive analytics, b
 | 11      | Handling Outliers                                       | [Link](sec-a/a-11-outliers)          | [Link](sec-b/b-11-outliers)          |
 | 12      | Reducing Features                                       | [Link](sec-a/a-12-reducing-features) | [Link](sec-b/b-12-reducing-features) |
 | 13      | Data-Driven Documents                                   | [Link](sec-a/a-13-dd-docs)           | [Link](sec-b/b-13-dd-docs)           |
+| 14      | Principal Component Analysis                            | [Link](sec-a/a-14-pca)               | [Link](sec-b/b-14-pca)           |
