@@ -1,8 +1,14 @@
 cd docs/sec-a
-for i in *.md; do pandoc "$i" -o ../../static/"${i%.md}".pdf; echo "$i"; done;
+for i in *.md
+do 
+  test -e ../../static/"${i%.md}".pdf && echo "$i" is present || pandoc "$i" -o ../../static/"${i%.md}".pdf
+done;
 
 cd ../sec-b
-for i in *.md; do pandoc "$i" -o ../../static/"${i%.md}".pdf; echo "$i"; done;
+for i in *.md
+do 
+  test -e ../../static/"${i%.md}".pdf && echo "$i" is present || pandoc "$i" -o ../../static/"${i%.md}".pdf
+done;
 
 cd ../../
 
