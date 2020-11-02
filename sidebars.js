@@ -12,7 +12,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Section B',
-      items: ['sec-b/b-01-gaussian-dist', 'sec-b/b-02-mlr', 'sec-b/b-03-parametric-models', 'sec-b/b-04-regularization', 'sec-b/b-05-bias-variance', 'sec-b/b-06-gradient-descent', 'sec-b/b-07-sgd', 'sec-b/b-08-nn', 'sec-b/b-09-mlp', 'sec-b/b-10-dp', 'sec-b/b-11-outliers', 'sec-b/b-12-reducing-features', 'sec-b/b-13-dd-docs', 'sec-b/b-14-pca']
+      items: ['sec-b/b-01-gaussian-dist', 'sec-b/b-02-mlr', 'sec-b/b-03-parametric-models', 'sec-b/b-04-regularization', 'sec-b/b-05-bias-variance', 'sec-b/b-06-gradient-descent', 'sec-b/b-07-sgd', 'sec-b/b-08-nn', 'sec-b/b-09-mlp', 'sec-b/b-10-dp', 'sec-b/b-11-outliers', 'sec-b/b-12-reducing-features', 'sec-b/b-13-dd-docs', 'sec-b/b-14-pca', 'sec-b/b-15-dt']
     },
   ],
 };
