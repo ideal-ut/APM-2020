@@ -91,7 +91,7 @@ $$
 
 So the question is, given a GMAT of 710, which class do we predict?
 
-The theoretical answer to this is in Bayes Decision Rule, which states that: $ i = \underset{j = 1 ... K}{argmax}\{P(C_j |x)\}$ where $K$ is the number of classes.
+The theoretical answer to this is in Bayes Decision Rule, which states that: $i = \underset{j = 1 ... K}{argmax}\{P(C_j |x)\}$ where $K$ is the number of classes.
 
 Thus, in our example, we assign class K to GMAT score of 710 to whichever class K has the highest value of $p(K | GMAT = 710)$ From the image below, you see that at GMAT = 710, the MSBA class has the higher probability. 
 
