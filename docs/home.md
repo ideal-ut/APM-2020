@@ -42,3 +42,4 @@ In this course we will study a variety of techniques for predictive analytics, b
 | 13      | Data-Driven Documents                                   | [Link](sec-a/a-13-dd-docs)           | [Link](sec-b/b-13-dd-docs)           |
 | 14      | Principal Component Analysis                            | [Link](sec-a/a-14-pca)               | [Link](sec-b/b-14-pca)               |
 | 15      | Classification: Decision Trees and Bayes Decision Theory|                                      | [Link](sec-b/b-15-dt)                |
+| 16      | Misclassification Rate and Minimizing Expected Loss     |                                      | [Link](sec-b/b-16-loss)              |
